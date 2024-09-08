@@ -7,4 +7,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0196-delete-duplicate-emails) |
+| [0577-employee-bonus](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
