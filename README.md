@@ -14,5 +14,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1415-students-and-examinations](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1415-students-and-examinations) |
 | [1625-group-sold-products-by-the-date](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1625-group-sold-products-by-the-date) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1877-find-followers-count](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1877-find-followers-count) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
