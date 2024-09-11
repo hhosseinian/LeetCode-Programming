@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1161-project-employees-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1161-project-employees-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1415-students-and-examinations](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1415-students-and-examinations) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1625-group-sold-products-by-the-date) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1877-find-followers-count](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1877-find-followers-count) |
