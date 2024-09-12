@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1462-list-the-products-ordered-in-a-period](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1664-find-users-with-valid-e-mails) |
+| [1670-patients-with-a-condition](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1670-patients-with-a-condition) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1877-find-followers-count](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1877-find-followers-count) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
