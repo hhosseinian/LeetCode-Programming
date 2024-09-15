@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1155-product-sales-analysis-iii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1161-project-employees-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1317-monthly-transactions-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1317-monthly-transactions-i) |
 | [1415-students-and-examinations](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1625-group-sold-products-by-the-date) |
