@@ -42,4 +42,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2087-confirmation-rate](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0068-text-justification) |
+## String
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0068-text-justification) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
