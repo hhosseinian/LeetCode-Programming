@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0173-binary-search-tree-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0173-binary-search-tree-iterator) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0173-binary-search-tree-iterator) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -104,4 +107,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0637-average-of-levels-in-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
