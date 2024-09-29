@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0046-permutations) |
 | [0068-text-justification](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -161,5 +162,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
