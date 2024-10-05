@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0289-game-of-life) |
 | [0506-relative-ranks](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0506-relative-ranks) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0954-maximum-sum-circular-subarray) |
+| [1127-last-stone-weight](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1127-last-stone-weight) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1392-find-the-difference-of-two-arrays) |
 ## String
 |  |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0506-relative-ranks](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1127-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
