@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-maximum-sum-circular-subarray](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0954-maximum-sum-circular-subarray) |
 | [1127-last-stone-weight](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1127-last-stone-weight) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## String
 |  |
 | ------- |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Iterator
 |  |
 | ------- |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0289-game-of-life) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -255,12 +258,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0506-relative-ranks) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1127-last-stone-weight) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Data Stream
 |  |
 | ------- |
