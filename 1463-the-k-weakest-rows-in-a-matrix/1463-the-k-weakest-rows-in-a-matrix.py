@@ -3,9 +3,9 @@ class Solution:
         min_heap = []
         for index,row in enumerate(mat):
             soldiers = sum(row)
-            heapq.heappush(min_heap,(soldiers,index))
+            heappush(min_heap,(soldiers,index))
         weakest_rows = []
         for _ in range(k):
-            weakest_rows.append(heapq.heappop(min_heap)[1])
+            weakest_rows.append(heappop(min_heap)[1])
         return weakest_rows
 
