@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0338-counting-bits](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0338-counting-bits) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -330,4 +331,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0295-find-median-from-data-stream) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
