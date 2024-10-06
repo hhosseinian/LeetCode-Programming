@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0954-maximum-sum-circular-subarray) |
+| [1086-divisor-game](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1236-n-th-tribonacci-number) |
 ## Queue
 |  |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0224-basic-calculator) |
+| [1086-divisor-game](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1236-n-th-tribonacci-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
@@ -343,4 +345,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1236-n-th-tribonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
