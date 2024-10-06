@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## String
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0289-game-of-life) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Hash Table
 |  |
 | ------- |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Data Stream
 |  |
 | ------- |
