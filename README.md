@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3226-minimum-number-game](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3226-minimum-number-game) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3226-minimum-number-game](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3226-minimum-number-game](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -291,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3226-minimum-number-game](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3226-minimum-number-game) |
 ## Data Stream
 |  |
 | ------- |
