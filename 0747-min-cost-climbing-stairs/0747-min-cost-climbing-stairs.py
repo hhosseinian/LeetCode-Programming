@@ -1,8 +1,8 @@
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
-        n=len(cost)
-        dp =[0]*(n+1)
-        dp[n-1] = cost[n-1]
-        for i in range(n-2,-1,-1):
-            dp[i]=cost[i]+min(dp[i+1],dp[i+2])
-        return min(dp[0],dp[1])
+        n,prev1,prev2=len(cost),cost[1],cost[0]
+        for i in range(2,n):
+            curr = cost[i]+min(prev1,prev2)
+            prev2,prev1 = prev1,curr
+        return min(prev1,prev2)
+
