@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0068-text-justification](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0289-game-of-life) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0146-lru-cache) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Linked List
 |  |
 | ------- |
@@ -267,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -278,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Data Stream
 |  |
 | ------- |
@@ -286,4 +291,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
