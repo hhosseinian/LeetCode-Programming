@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0068-text-justification](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0097-interleaving-string) |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0097-interleaving-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0338-counting-bits) |
