@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0441-arranging-coins](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0441-arranging-coins) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0224-basic-calculator) |
+| [0441-arranging-coins](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0441-arranging-coins) |
 | [1086-divisor-game](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1236-n-th-tribonacci-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
