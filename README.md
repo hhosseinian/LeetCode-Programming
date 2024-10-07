@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0367-valid-perfect-square](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0441-arranging-coins) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0224-basic-calculator) |
+| [0367-valid-perfect-square](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0441-arranging-coins) |
 | [1086-divisor-game](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1236-n-th-tribonacci-number) |
