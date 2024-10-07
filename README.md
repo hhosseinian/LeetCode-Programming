@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0133-clone-graph) |
+| [1916-find-center-of-star-graph](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1916-find-center-of-star-graph) |
 ## Sorting
 |  |
 | ------- |
