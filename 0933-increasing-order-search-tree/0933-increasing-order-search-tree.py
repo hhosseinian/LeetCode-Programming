@@ -4,17 +4,21 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+from collections import deque
 class Solution:
     def increasingBST(self, root: TreeNode) -> TreeNode:
-        self.newroot = TreeNode(0)
-        self.curr = self.newroot
-        def dfs(node):
-            if not node:
-                return
-            dfs(node.left)
-            self.curr.right = TreeNode(node.val)
-            self.curr = self.curr.right
-            dfs(node.right)
-        dfs(root)
-        return self.newroot.right
+        newroot = TreeNode(0)
+        curr = newroot
+        stack = deque()
+        node = root
+        while node or stack:
+            while node:
+                stack.append(node)
+                node = node.left
+            node = stack.pop()
+            curr.right = TreeNode(node.val)
+            curr = curr.right
+            node = node.right
+        return newroot.right
+
         
