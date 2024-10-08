@@ -10,14 +10,9 @@ class Solution:
     def maxDepth(self, root: 'Node') -> int:
         if not root:
             return 0
-        def dfs(node) -> int:
-            children_depth = set([0])
-            if not node:
-                return 0
-            for child in node.children:
-                children_depth.add(dfs(child)+1)
-            return max(children_depth)
-        
-        return dfs(root)+1
+        max_depth = 0
+        for child in root.children:
+            max_depth = max(max_depth,self.maxDepth(child))
+        return max_depth+1
             
             
