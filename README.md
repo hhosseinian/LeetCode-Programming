@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0023-merge-k-sorted-lists) |
+| [0086-partition-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0086-partition-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0146-lru-cache) |
 ## Design
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0086-partition-list) |
 | [0295-find-median-from-data-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0295-find-median-from-data-stream) |
 ## Bit Manipulation
 |  |
