@@ -4,18 +4,18 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-from collections import defaultdict
 class Solution:
     def findMode(self, root: Optional[TreeNode]) -> List[int]:
         if not root:
             return []
-        self.max_count = 0
-        count = defaultdict(int)
-        def dfs(node: TreeNode):
+        count ={}
+        self.max_count =0
+        def dfs(node:TreeNode):
             if not node:
                 return
-            count[node.val]+=1
-            self.max_count =max(self.max_count,count[node.val])
+            count[node.val] = count.get(node.val,0)+1
+            if count[node.val]>self.max_count:
+                self.max_count = count[node.val]
             dfs(node.left)
             dfs(node.right)
         dfs(root)
