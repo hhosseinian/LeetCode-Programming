@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0289-game-of-life) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0097-interleaving-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0224-basic-calculator) |
 | [0399-evaluate-division](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0433-minimum-genetic-mutation) |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0289-game-of-life) |
 | [0772-construct-quad-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0772-construct-quad-tree) |
@@ -279,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0052-n-queens-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0212-word-search-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -424,4 +428,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
