@@ -8,21 +8,14 @@ class Solution:
     def sumRootToLeaf(self, root: Optional[TreeNode]) -> int:
         if not root:
             return 0
-        total_sum = 0
-        paths = []
-        def dfs(node: Optional[TreeNode],path: str):
+        def dfs(node: Optional[TreeNode],curr_sum: str):
             if not node:
-                return
-            path+=str(node.val)
+                return 0
+            curr_sum = curr_sum <<1 | node.val
             if not node.left and not node.right:
-                paths.append(path)
-            else:
-                dfs(node.left,path)
-                dfs(node.right,path)
-        dfs(root,"")
-        for p in paths:
-            total_sum+=int(p,2)
-        return total_sum
+                return curr_sum
+            return dfs(node.left,curr_sum)+dfs(node.right,curr_sum)
+        return dfs(root,0)
 
 
         
