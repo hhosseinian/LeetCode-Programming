@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1035-cousins-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1035-cousins-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2121-find-if-path-exists-in-graph) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
