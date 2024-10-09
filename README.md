@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-increasing-order-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1035-cousins-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-increasing-order-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1035-cousins-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-increasing-order-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1035-cousins-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
