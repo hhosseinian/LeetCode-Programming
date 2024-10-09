@@ -8,7 +8,7 @@ class Solution:
     def sumRootToLeaf(self, root: Optional[TreeNode]) -> int:
         if not root:
             return 0
-        def dfs(node: Optional[TreeNode],curr_sum: str):
+        def dfs(node: Optional[TreeNode],curr_sum: int):
             if not node:
                 return 0
             curr_sum = curr_sum <<1 | node.val
