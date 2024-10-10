@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0257-binary-tree-paths) |
+| [0394-decode-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0433-minimum-genetic-mutation) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1777-determine-if-two-strings-are-close) |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0394-decode-string) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0933-increasing-order-search-tree) |
@@ -404,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
