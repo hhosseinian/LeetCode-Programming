@@ -5,11 +5,11 @@ class Solution:
 
         left,right =0,N-1
         while left<right:
-            if not s_list[left].isalpha():
+            while left<right and not s_list[left].isalpha():
                 left+=1
-            elif not s_list[right].isalpha():
+            while left<right and not s_list[right].isalpha():
                 right-=1
-            else:
+            if left<right:
                 s_list[left],s_list[right]=s_list[right],s_list[left]
                 left+=1
                 right-=1
