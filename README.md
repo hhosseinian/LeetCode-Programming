@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0433-minimum-genetic-mutation) |
+| [1777-determine-if-two-strings-are-close](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1777-determine-if-two-strings-are-close) |
 ## Simulation
 |  |
 | ------- |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1319-unique-number-of-occurrences](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1777-determine-if-two-strings-are-close) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Linked List
@@ -428,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0506-relative-ranks) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1777-determine-if-two-strings-are-close](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1777-determine-if-two-strings-are-close) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
@@ -521,4 +524,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0572-subtree-of-another-tree) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
