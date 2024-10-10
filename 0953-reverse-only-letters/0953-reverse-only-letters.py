@@ -7,9 +7,9 @@ class Solution:
         while left<right:
             if not s_list[left].isalpha():
                 left+=1
-            if not s_list[right].isalpha():
+            elif not s_list[right].isalpha():
                 right-=1
-            if s_list[left].isalpha() and s_list[right].isalpha():
+            else:
                 s_list[left],s_list[right]=s_list[right],s_list[left]
                 left+=1
                 right-=1
