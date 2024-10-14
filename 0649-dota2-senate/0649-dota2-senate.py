@@ -1,21 +1,30 @@
 from collections import deque
 class Solution:
     def predictPartyVictory(self, senate: str) -> str:
+        D_count = senate.count('D')
+        R_count = senate.count('R')
         n = len(senate)
-        if n == 1:
-            return "Dire" if senate == 'D' else "Radiant"
-        Dqueue = deque()
-        Rqueue = deque()
-        for index,party in enumerate(senate):
-            if party == 'R':
-                Rqueue.append(index)
-            else:
-                Dqueue.append(index)
-        while Dqueue and Rqueue:
-            R_index = Rqueue.popleft()
-            D_index = Dqueue.popleft()
-            if R_index<D_index:
-                Rqueue.append(R_index+n)
-            else:
-                Dqueue.append(R_index+n)
-        return "Dire" if Dqueue else "Radiant" 
+        R_ptr=0
+        skipped = 0
+        while D_count>0 and R_count>0:
+            while R_ptr<n and senate[R_ptr] == 'X':
+                R_ptr+=1
+            if R_ptr == n:
+                R_ptr = 0
+            if senate[R_ptr] == 'R':
+                D_count -= 1
+                banned = (R_ptr+1)%n
+                while senate[banned]!='D':
+                    banned=(banned+1)%n
+                senate =senate[:banned]+'X'+senate[banned+1:]
+            elif senate[R_ptr] == 'D':
+                R_count -= 1
+                banned = (R_ptr+1)%n
+                while senate[banned]!='R':
+                    banned=(banned+1)%n
+                senate =senate[:banned]+'X'+senate[banned+1:]
+            R_ptr+=1
+        return "Radiant" if R_count>0 else "Dire"
+
+                
+
