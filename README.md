@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0969-number-of-recent-calls) |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0394-decode-string) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0225-implement-stack-using-queues) |
 | [0649-dota2-senate](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0649-dota2-senate) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0969-number-of-recent-calls) |
