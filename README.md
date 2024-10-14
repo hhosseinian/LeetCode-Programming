@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0068-text-justification](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0289-game-of-life) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2428-equal-row-and-column-pairs](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0775-n-ary-tree-preorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0933-increasing-order-search-tree) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -405,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0649-dota2-senate](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0649-dota2-senate) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0969-number-of-recent-calls) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
 | ------- |
