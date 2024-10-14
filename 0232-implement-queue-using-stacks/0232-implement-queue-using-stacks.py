@@ -1,13 +1,14 @@
+from collections import deque
 class MyQueue:
 
     def __init__(self):
-        self.Primary = []
+        self.Primary = deque()
 
     def push(self, x: int) -> None:
         self.Primary.append(x)
 
     def pop(self) -> int:
-        return self.Primary.pop(0)
+        return self.Primary.popleft()
         
 
     def peek(self) -> int:
