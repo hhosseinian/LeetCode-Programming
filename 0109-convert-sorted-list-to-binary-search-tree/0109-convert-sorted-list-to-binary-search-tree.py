@@ -12,15 +12,22 @@
 class Solution:
     def sortedListToBST(self, head: Optional[ListNode]) -> Optional[TreeNode]:
         stack = []
-        while head:
-            stack.append(head.val)
-            head=head.next
-        def balanced_tree(stack:list)-> Optional[TreeNode]:
-            n = len(stack)
-            if n == 0:
-                return
-            root = TreeNode(stack[n//2])
-            root.left = balanced_tree(stack[:n//2])
-            root.right = balanced_tree(stack[n//2+1:])
+        def find_size(node: Optional[ListNode])->int:
+            size = 0
+            while node:
+                size+=1
+                node = node.next
+            return size
+        def balanced_tree(left:int,right:int) -> Optional[TreeNode]:
+            nonlocal head
+            if left>right:
+                return None
+            mid =(left+right)//2
+            left_child = balanced_tree(left,mid-1)
+            root = TreeNode(head.val)
+            root.left = left_child
+            head = head.next
+            root.right = balanced_tree(mid+1,right)
             return root
-        return balanced_tree(stack)
+        return balanced_tree(0,find_size(head)-1)
+ 
