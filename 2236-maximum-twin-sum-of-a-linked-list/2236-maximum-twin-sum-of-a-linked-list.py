@@ -5,8 +5,6 @@
 #         self.next = next
 class Solution:
     def pairSum(self, head: Optional[ListNode]) -> int:
-        N = 0
-        curr = head
         # Find the midpoint using slow/fast ptr
         fast,slow=head,head
         while fast and fast.next:
