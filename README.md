@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0147-insertion-sort-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0725-split-linked-list-in-parts) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0933-increasing-order-search-tree) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -545,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0680-valid-palindrome-ii) |
 | [0953-reverse-only-letters](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0953-reverse-only-letters) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
