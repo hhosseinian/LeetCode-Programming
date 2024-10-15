@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0433-minimum-genetic-mutation) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0208-implement-trie-prefix-tree) |
+| [0389-find-the-difference](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0433-minimum-genetic-mutation) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0816-design-hashset](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0816-design-hashset) |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0147-insertion-sort-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0295-find-median-from-data-stream) |
+| [0389-find-the-difference](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0506-relative-ranks) |
@@ -558,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0389-find-the-difference) |
 ## Memoization
 |  |
 | ------- |
