@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2585-delete-greatest-value-in-each-row](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3226-minimum-number-game) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
 | ------- |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0147-insertion-sort-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0725-split-linked-list-in-parts) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
 | ------- |
