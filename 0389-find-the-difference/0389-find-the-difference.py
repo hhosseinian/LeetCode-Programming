@@ -1,8 +1,13 @@
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
-        sorted_s = sorted(s)
-        sorted_t = sorted(t)
-        for i in range(len(sorted_s)):
-            if sorted_s[i] != sorted_t[i]:
-                return sorted_t[i]
-        return sorted_t[-1]
+        count_t_letter = {}
+        for letter in t:
+            if letter not in count_t_letter:
+                count_t_letter[letter]=1
+            else:
+                count_t_letter[letter] += 1
+        for letter in s:
+            count_t_letter[letter]-=1
+        for key,value in count_t_letter.items():
+            if value == 1:
+                return key
