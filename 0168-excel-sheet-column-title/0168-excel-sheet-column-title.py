@@ -3,6 +3,6 @@ class Solution:
         result = []
         while columnNumber >0:
             columnNumber-=1
-            result.append(chr(columnNumber%26+ord('A')))
+            result.insert(0,chr(columnNumber%26+ord('A')))
             columnNumber = columnNumber//26
-        return ''.join(reversed(result))
+        return ''.join(result)
