@@ -4,7 +4,7 @@ class Solution:
         result =[]
         for word in words:
             lower_word = word.lower()
-            for key,val in kb_rows.items():
+            for val in kb_rows.values():
                 if all(char in val for char in lower_word):
                     result.append(word)
                     break
