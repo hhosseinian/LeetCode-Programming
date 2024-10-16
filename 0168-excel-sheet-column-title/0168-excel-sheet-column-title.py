@@ -1,8 +1,8 @@
 class Solution:
     def convertToTitle(self, columnNumber: int) -> str:
-        result = ''
+        result = []
         while columnNumber >0:
             columnNumber-=1
-            result=(chr(columnNumber%26+ord('A')))+result
+            result.append(chr(columnNumber%26+ord('A')))
             columnNumber = columnNumber//26
-        return result
+        return ''.join(reversed(result))
