@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0415-add-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0433-minimum-genetic-mutation) |
 | [0520-detect-capital](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0541-reverse-string-ii) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0068-text-justification](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0289-game-of-life) |
+| [0415-add-strings](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0415-add-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2195-time-needed-to-buy-tickets) |
 | [2428-equal-row-and-column-pairs](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2428-equal-row-and-column-pairs) |
@@ -457,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0224-basic-calculator) |
 | [0367-valid-perfect-square](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0382-linked-list-random-node) |
+| [0415-add-strings](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0441-arranging-coins) |
 | [1086-divisor-game](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1236-n-th-tribonacci-number) |
