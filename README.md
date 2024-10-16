@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0415-add-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0433-minimum-genetic-mutation) |
+| [0434-number-of-segments-in-a-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0541-reverse-string-ii) |
 | [0649-dota2-senate](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0649-dota2-senate) |
