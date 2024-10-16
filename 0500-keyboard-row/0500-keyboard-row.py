@@ -1,6 +1,6 @@
 class Solution:
     def findWords(self, words: List[str]) -> List[str]:
-        kb_rows = {1:"qwertyuiop",2:"asdfghjkl",3:"zxcvbnm"}
+        kb_rows = {1:set("qwertyuiop"),2:set("asdfghjkl"),3:set("zxcvbnm")}
         result =[]
         for word in words:
             for key,val in kb_rows.items():
