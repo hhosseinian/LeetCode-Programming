@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0482-license-key-formatting](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0541-reverse-string-ii) |
 | [0649-dota2-senate](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0680-valid-palindrome-ii) |
