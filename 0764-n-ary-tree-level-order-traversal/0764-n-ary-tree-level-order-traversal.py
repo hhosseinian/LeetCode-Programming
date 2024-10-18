@@ -6,7 +6,6 @@ class Node:
         self.children = children
 """
 from collections import deque
-#from typing import List, Optional
 class Solution:
     def levelOrder(self, root: 'Node') -> List[List[int]]:
         if not root:
@@ -18,7 +17,8 @@ class Solution:
             for _ in range(len(queue)):
                 node = queue.popleft()
                 level.append(node.val)
-                queue.extend(node.children)
+                for child in node.children:
+                    queue.append(child)
             levels.append(level)
         return levels
 
