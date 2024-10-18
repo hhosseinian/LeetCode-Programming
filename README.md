@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0816-design-hashset) |
 | [0945-snakes-and-ladders](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0954-maximum-sum-circular-subarray) |
+| [0979-di-string-match](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0979-di-string-match) |
 | [1127-last-stone-weight](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1127-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0696-count-binary-substrings) |
 | [0953-reverse-only-letters](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0953-reverse-only-letters) |
+| [0979-di-string-match](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0979-di-string-match) |
 | [1714-rearrange-spaces-between-words](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1714-rearrange-spaces-between-words) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1777-determine-if-two-strings-are-close) |
 ## Simulation
@@ -568,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0561-array-partition) |
 | [0649-dota2-senate](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0680-valid-palindrome-ii) |
+| [0979-di-string-match](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0979-di-string-match) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Quickselect
@@ -589,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0696-count-binary-substrings) |
 | [0953-reverse-only-letters](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0953-reverse-only-letters) |
+| [0979-di-string-match](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0979-di-string-match) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
