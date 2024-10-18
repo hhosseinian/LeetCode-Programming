@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0696-count-binary-substrings) |
 | [0953-reverse-only-letters](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0979-di-string-match) |
+| [1454-remove-palindromic-subsequences](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1454-remove-palindromic-subsequences) |
 | [1714-rearrange-spaces-between-words](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1714-rearrange-spaces-between-words) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1777-determine-if-two-strings-are-close) |
 ## Simulation
@@ -593,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0696-count-binary-substrings) |
 | [0953-reverse-only-letters](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0979-di-string-match) |
+| [1454-remove-palindromic-subsequences](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1454-remove-palindromic-subsequences) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
