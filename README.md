@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-univalued-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-univalued-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-univalued-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -458,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-maximum-sum-circular-subarray](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0954-maximum-sum-circular-subarray) |
 | [1086-divisor-game](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1236-n-th-tribonacci-number) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Queue
 |  |
 | ------- |
