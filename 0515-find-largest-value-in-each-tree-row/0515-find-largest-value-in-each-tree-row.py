@@ -8,22 +8,17 @@ from collections import deque
 class Solution:
     def largestValues(self, root: Optional[TreeNode]) -> List[int]:
         levels_max = []
-        def BFS(node):
+        def DFS(node,depth):
             nonlocal levels_max
             if not node:
                 return
-            queue = deque([node])
-            while queue:
-                curr_level_max = float('-inf')
-                queue_size = len(queue)
-                for _ in range(queue_size):
-                    node = queue.popleft()
-                    curr_level_max = max(curr_level_max,node.val)
-                    if node.left:
-                        queue.append(node.left)
-                    if node.right:
-                        queue.append(node.right)
-                levels_max.append(curr_level_max)
-        BFS(root)
+            if depth == len(levels_max):
+                levels_max.append(node.val)
+            else:
+                levels_max[depth] = max(levels_max[depth],node.val)
+            DFS(node.left, depth+1)
+            DFS(node.right, depth+1)
+
+        DFS(root,0)
         return levels_max
         
