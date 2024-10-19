@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3226-minimum-number-game](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1454-remove-palindromic-subsequences](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1454-remove-palindromic-subsequences) |
 | [1714-rearrange-spaces-between-words](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1714-rearrange-spaces-between-words) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1777-determine-if-two-strings-are-close) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Simulation
 |  |
 | ------- |
@@ -509,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1086-divisor-game](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Queue
 |  |
 | ------- |
@@ -629,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0979-di-string-match](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0979-di-string-match) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Quickselect
 |  |
 | ------- |
