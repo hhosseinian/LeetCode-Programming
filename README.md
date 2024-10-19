@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0215-kth-largest-element-in-an-array) |
@@ -500,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0097-interleaving-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0747-min-cost-climbing-stairs) |
