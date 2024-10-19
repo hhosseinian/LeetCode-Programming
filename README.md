@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0102-binary-tree-level-order-traversal) |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0102-binary-tree-level-order-traversal) |
@@ -439,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0074-search-a-2d-matrix) |
+| [0096-unique-binary-search-trees](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -501,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0097-interleaving-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -531,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0224-basic-calculator) |
