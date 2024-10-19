@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0933-increasing-order-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1005-univalued-binary-tree) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0933-increasing-order-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1005-univalued-binary-tree) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -380,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1005-univalued-binary-tree) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
