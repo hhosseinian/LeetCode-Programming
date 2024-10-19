@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -443,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0367-valid-perfect-square](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0441-arranging-coins) |
+| [0450-delete-node-in-a-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0538-convert-bst-to-greater-tree) |
