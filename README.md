@@ -498,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0097-interleaving-string) |
@@ -529,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0224-basic-calculator) |
@@ -719,4 +721,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0561-array-partition) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
