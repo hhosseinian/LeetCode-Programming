@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1254-deepest-leaves-sum) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1731-even-odd-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1731-even-odd-tree) |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1254-deepest-leaves-sum) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1731-even-odd-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1731-even-odd-tree) |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1254-deepest-leaves-sum) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2121-find-if-path-exists-in-graph) |
