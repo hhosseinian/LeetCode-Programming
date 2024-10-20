@@ -12,25 +12,18 @@ class Codec:
         """
         if not root:
             return ''
-        inorder_stack = []
-        preorder_stack = []
         
         def inorder_travarse(node):
             if not node:
-                return
-            inorder_travarse(node.left)
-            inorder_stack.append(node.val)
-            inorder_travarse(node.right)
+                return []
+            return inorder_travarse(node.left)+[node.val]+inorder_travarse(node.right)
 
         def preorder_travarse(node):
             if not node:
-                return
-            preorder_stack.append(node.val)
-            preorder_travarse(node.left)
-            preorder_travarse(node.right)
-        inorder_travarse(root)
-        preorder_travarse(root)
-        #print(inorder_stack+preorder_stack)
+                return []
+            return [node.val]+preorder_travarse(node.left)+preorder_travarse(node.right)
+        inorder_stack = inorder_travarse(root)
+        preorder_stack = preorder_travarse(root)
         return ','.join(str(i) for i in inorder_stack)+';'+','.join(str(i) for i in preorder_stack)
 
     def deserialize(self, data: str) -> Optional[TreeNode]:
@@ -39,10 +32,9 @@ class Codec:
         n = len(data)
         if n == 0:
             return None
-        stack = data.split(';')
-        preorder_stack = [int(i) for i in stack[1].split(',')]
-        inorder_stack = [int(i) for i in stack[0].split(',')]
-        #print(inorder_stack+preorder_stack)
+        inoder_str,preorder_str = data.split(';')
+        inorder_stack = list(map(int,inoder_str.split(',')))
+        preorder_stack = list(map(int,preorder_str.split(',')))
         
         def Buildtree(preorder_stack:Optional[TreeNode],inorder_stack:Optional[TreeNode])->Optional[TreeNode]:
             if not preorder_stack or not inorder_stack:
