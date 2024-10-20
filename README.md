@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0289-game-of-life) |
+| [0303-range-sum-query-immutable](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0399-evaluate-division) |
 | [0455-assign-cookies](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0455-assign-cookies) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0449-serialize-and-deserialize-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0816-design-hashset) |
@@ -748,4 +750,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
