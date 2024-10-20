@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0415-add-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0434-number-of-segments-in-a-string) |
+| [0449-serialize-and-deserialize-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0449-serialize-and-deserialize-bst) |
 | [0459-repeated-substring-pattern](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0500-keyboard-row) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0295-find-median-from-data-stream) |
+| [0449-serialize-and-deserialize-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0449-serialize-and-deserialize-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0816-design-hashset) |
 | [0969-number-of-recent-calls](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0969-number-of-recent-calls) |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0513-find-bottom-left-tree-value) |
@@ -315,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0513-find-bottom-left-tree-value) |
@@ -365,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0513-find-bottom-left-tree-value) |
@@ -409,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0433-minimum-genetic-mutation](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0433-minimum-genetic-mutation) |
+| [0449-serialize-and-deserialize-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -459,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0367-valid-perfect-square](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0441-arranging-coins) |
+| [0449-serialize-and-deserialize-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
