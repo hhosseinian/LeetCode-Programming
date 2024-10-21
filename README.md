@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0399-evaluate-division) |
 | [0455-assign-cookies](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0463-island-perimeter) |
+| [0495-teemo-attacking](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0506-relative-ranks) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0495-teemo-attacking) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2195-time-needed-to-buy-tickets) |
 | [2428-equal-row-and-column-pairs](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2428-equal-row-and-column-pairs) |
