@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0598-range-addition-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0772-construct-quad-tree) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0521-longest-uncommon-subsequence-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0551-student-attendance-record-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0649-dota2-senate](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0696-count-binary-substrings) |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0816-design-hashset](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0816-design-hashset) |
 | [1319-unique-number-of-occurrences](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1319-unique-number-of-occurrences) |
