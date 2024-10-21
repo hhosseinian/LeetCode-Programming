@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0506-relative-ranks) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0409-longest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0433-minimum-genetic-mutation) |
+| [0496-next-greater-element-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0500-keyboard-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0816-design-hashset](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0816-design-hashset) |
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0496-next-greater-element-i) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0933-increasing-order-search-tree) |
@@ -756,4 +759,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0303-range-sum-query-immutable) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
