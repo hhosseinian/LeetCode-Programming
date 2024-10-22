@@ -567,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0093-restore-ip-addresses) |
 | [0212-word-search-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0401-binary-watch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -753,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0338-counting-bits](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0645-set-mismatch) |
 ## Memoization
 |  |
