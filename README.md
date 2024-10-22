@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0979-di-string-match) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1454-remove-palindromic-subsequences) |
 | [1666-make-the-string-great](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1666-make-the-string-great) |
 | [1714-rearrange-spaces-between-words](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1714-rearrange-spaces-between-words) |
@@ -486,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0933-increasing-order-search-tree) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1666-make-the-string-great) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2128-reverse-prefix-of-word](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2128-reverse-prefix-of-word) |
