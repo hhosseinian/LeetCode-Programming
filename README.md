@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0074-search-a-2d-matrix) |
@@ -539,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0079-word-search) |
