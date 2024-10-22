@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0772-construct-quad-tree) |
 | [0816-design-hashset](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0816-design-hashset) |
+| [0898-transpose-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0954-maximum-sum-circular-subarray) |
 | [0979-di-string-match](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0979-di-string-match) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0566-reshape-the-matrix) |
+| [0898-transpose-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0898-transpose-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2195-time-needed-to-buy-tickets) |
 | [2428-equal-row-and-column-pairs](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2428-equal-row-and-column-pairs) |
@@ -518,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0661-image-smoother) |
 | [0772-construct-quad-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0772-construct-quad-tree) |
+| [0898-transpose-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0945-snakes-and-ladders) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2428-equal-row-and-column-pairs) |
