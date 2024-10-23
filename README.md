@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0130-surrounded-regions) |
+| [0140-word-break-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0162-find-peak-element) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0097-interleaving-string) |
+| [0140-word-break-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0171-excel-sheet-column-number) |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0133-clone-graph) |
+| [0140-word-break-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0389-find-the-difference](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0389-find-the-difference) |
@@ -568,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0077-combinations](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0093-restore-ip-addresses) |
+| [0140-word-break-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0401-binary-watch) |
@@ -584,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0097-interleaving-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0213-house-robber-ii) |
@@ -763,6 +768,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0140-word-break-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1236-n-th-tribonacci-number) |
 ## Brainteaser
 |  |
@@ -788,6 +794,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0212-word-search-ii) |
