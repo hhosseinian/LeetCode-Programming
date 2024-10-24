@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0979-di-string-match) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1454-remove-palindromic-subsequences) |
 | [1666-make-the-string-great](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1666-make-the-string-great) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-distribute-coins-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-distribute-coins-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -437,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-distribute-coins-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1450-delete-leaves-with-a-given-value) |
