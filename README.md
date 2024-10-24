@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0772-construct-quad-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0772-construct-quad-tree) |
 | [0816-design-hashset](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0816-design-hashset) |
 | [0898-transpose-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0898-transpose-matrix) |
+| [0924-fair-candy-swap](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0924-fair-candy-swap) |
 | [0945-snakes-and-ladders](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0954-maximum-sum-circular-subarray) |
 | [0979-di-string-match](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0979-di-string-match) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0697-degree-of-an-array) |
 | [0816-design-hashset](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0816-design-hashset) |
+| [0924-fair-candy-swap](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0924-fair-candy-swap) |
 | [1319-unique-number-of-occurrences](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1777-determine-if-two-strings-are-close) |
@@ -536,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0924-fair-candy-swap](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0924-fair-candy-swap) |
 | [0933-increasing-order-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0933-increasing-order-search-tree) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -686,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0645-set-mismatch) |
+| [0924-fair-candy-swap](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0924-fair-candy-swap) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
