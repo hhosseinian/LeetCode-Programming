@@ -4,10 +4,8 @@ class Solution:
         Freq_dict = {}
         for n in nums:
             if n in Freq_dict:
-                Freq_dict[n] += 1
+                return n
             else:
                 Freq_dict[n] = 1
-            if Freq_dict[n]>1:
-                return n
         return -1
 
