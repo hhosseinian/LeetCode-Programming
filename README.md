@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-maximum-sum-circular-subarray](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0954-maximum-sum-circular-subarray) |
 | [0979-di-string-match](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0979-di-string-match) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1044-find-common-characters](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1044-find-common-characters) |
 | [1127-last-stone-weight](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1127-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0979-di-string-match) |
+| [1044-find-common-characters](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1044-find-common-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1454-remove-palindromic-subsequences) |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0924-fair-candy-swap](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0924-fair-candy-swap) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1044-find-common-characters](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1777-determine-if-two-strings-are-close) |
