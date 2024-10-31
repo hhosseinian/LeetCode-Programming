@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0874-backspace-string-compare) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0979-di-string-match) |
 | [1044-find-common-characters](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1044-find-common-characters) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0697-degree-of-an-array) |
 | [0816-design-hashset](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0816-design-hashset) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0924-fair-candy-swap) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -836,6 +838,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0594-longest-harmonious-subsequence) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1777-determine-if-two-strings-are-close) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
