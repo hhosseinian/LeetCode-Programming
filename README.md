@@ -594,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0052-n-queens-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0212-word-search-ii) |
@@ -643,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0171-excel-sheet-column-number) |
@@ -789,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0089-gray-code) |
 | [0338-counting-bits](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0401-binary-watch) |
