@@ -10,13 +10,13 @@ class Solution:
         for r in range(rows):
             for c in range(cols):
                 if rooms[r][c] == 0:
-                    queue.append((r,c,0)) #x,y,distance from gate
+                    queue.append((r,c)) #x,y
         while queue:
-            x,y,distance = queue.popleft()
+            x,y = queue.popleft()
             for dr,dc in directions:
                 nr,nc=x+dr,y+dc
                 if 0<=nr<rows and 0<=nc<cols and rooms[nr][nc] == 2147483647:
-                    queue.append((nr,nc,distance+1))
-                    rooms[nr][nc]=distance+1
+                    queue.append((nr,nc))
+                    rooms[nr][nc]=rooms[x][y]+1
 
             
