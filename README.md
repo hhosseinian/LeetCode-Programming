@@ -658,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0224-basic-calculator) |
+| [0342-power-of-four](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0382-linked-list-random-node) |
 | [0415-add-strings](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0415-add-strings) |
@@ -675,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0224-basic-calculator) |
+| [0342-power-of-four](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
@@ -805,6 +807,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0089-gray-code](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0089-gray-code) |
 | [0338-counting-bits](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0645-set-mismatch) |
