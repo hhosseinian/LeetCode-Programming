@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1942-primary-department-for-each-employee) |
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1974-find-customers-with-positive-revenue-this-year) |
+| [2024-calculate-special-bonus](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2024-calculate-special-bonus) |
 | [2057-count-salary-categories](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2127-employees-whose-manager-left-the-company) |
