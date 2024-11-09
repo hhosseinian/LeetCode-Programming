@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0239-sliding-window-maximum) |
+| [0243-shortest-word-distance](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0243-shortest-word-distance) |
 | [0289-game-of-life](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0321-create-maximum-number](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0321-create-maximum-number) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0224-basic-calculator) |
+| [0243-shortest-word-distance](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0243-shortest-word-distance) |
 | [0257-binary-tree-paths](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0389-find-the-difference) |
