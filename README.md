@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0979-di-string-match](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0979-di-string-match) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1044-find-common-characters) |
+| [1066-fixed-point](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1066-fixed-point) |
 | [1127-last-stone-weight](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1127-last-stone-weight) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1319-unique-number-of-occurrences](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1319-unique-number-of-occurrences) |
@@ -564,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0924-fair-candy-swap](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0924-fair-candy-swap) |
 | [0933-increasing-order-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0933-increasing-order-search-tree) |
+| [1066-fixed-point](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1066-fixed-point) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/2210-find-target-indices-after-sorting-array) |
