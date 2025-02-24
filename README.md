@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0772-construct-quad-tree) |
+| [0792-binary-search](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0816-design-hashset) |
 | [0898-transpose-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0898-transpose-matrix) |
 | [0924-fair-candy-swap](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0924-fair-candy-swap) |
@@ -567,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0792-binary-search](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0924-fair-candy-swap) |
 | [0933-increasing-order-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0933-increasing-order-search-tree) |
 | [1066-fixed-point](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1066-fixed-point) |
