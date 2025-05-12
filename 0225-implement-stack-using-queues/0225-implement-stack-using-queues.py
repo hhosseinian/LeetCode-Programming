@@ -1,6 +1,5 @@
-from collections import deque
 class MyStack:
-
+    from collections import deque
     def __init__(self):
         self.queue = deque()
 
@@ -12,10 +11,9 @@ class MyStack:
 
     def top(self) -> int:
         return self.queue[-1]
-        
 
     def empty(self) -> bool:
-        return len(self.queue) ==0
+        return len(self.queue) == 0
         
 
 
