@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0037-sudoku-solver) |
