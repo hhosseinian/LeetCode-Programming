@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -729,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0295-find-median-from-data-stream) |
@@ -809,6 +811,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0016-3sum-closest) |
 | [0086-partition-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0165-compare-version-numbers) |
