@@ -11,4 +11,6 @@ class Solution:
                 fast+=1
             else:
                 slow+=1
+            if n-slow<=maxlength:
+                break
         return maxlength
