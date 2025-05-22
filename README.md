@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-maximum-sum-circular-subarray](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0954-maximum-sum-circular-subarray) |
 | [0979-di-string-match](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0979-di-string-match) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1044-find-common-characters) |
 | [1066-fixed-point](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1066-fixed-point) |
 | [1083-two-sum-less-than-k](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1083-two-sum-less-than-k) |
@@ -758,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0924-fair-candy-swap) |
+| [1019-squares-of-a-sorted-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1083-two-sum-less-than-k](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1083-two-sum-less-than-k) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -848,6 +850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0979-di-string-match) |
+| [1019-squares-of-a-sorted-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1083-two-sum-less-than-k](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1083-two-sum-less-than-k) |
 | [1168-duplicate-zeros](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1168-duplicate-zeros) |
 | [1454-remove-palindromic-subsequences](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1454-remove-palindromic-subsequences) |
