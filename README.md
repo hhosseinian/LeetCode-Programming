@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0321-create-maximum-number](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0321-create-maximum-number) |
+| [0347-top-k-frequent-elements](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0399-evaluate-division) |
 | [0455-assign-cookies](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0455-assign-cookies) |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0208-implement-trie-prefix-tree) |
+| [0347-top-k-frequent-elements](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0409-longest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0433-minimum-genetic-mutation) |
@@ -335,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0772-construct-quad-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0954-maximum-sum-circular-subarray) |
 ## Tree
@@ -752,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0147-insertion-sort-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0502-ipo) |
@@ -785,6 +789,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0506-relative-ranks) |
@@ -826,6 +831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -917,6 +923,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -954,4 +961,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
