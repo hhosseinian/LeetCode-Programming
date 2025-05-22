@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0085-maximal-rectangle) |
@@ -746,6 +747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0215-kth-largest-element-in-an-array) |
@@ -830,6 +832,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0125-valid-palindrome) |
