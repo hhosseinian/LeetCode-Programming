@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1044-find-common-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1066-fixed-point](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1066-fixed-point) |
 | [1083-two-sum-less-than-k](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1083-two-sum-less-than-k) |
 | [1127-last-stone-weight](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1127-last-stone-weight) |
@@ -596,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0924-fair-candy-swap) |
 | [0933-increasing-order-search-tree](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0933-increasing-order-search-tree) |
+| [1046-max-consecutive-ones-iii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1066-fixed-point](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1066-fixed-point) |
 | [1083-two-sum-less-than-k](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1083-two-sum-less-than-k) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -730,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1046-max-consecutive-ones-iii) |
 ## Union Find
 |  |
 | ------- |
@@ -950,6 +953,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1046-max-consecutive-ones-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
