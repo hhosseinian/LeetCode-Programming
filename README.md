@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0415-add-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0449-serialize-and-deserialize-bst) |
 | [0459-repeated-substring-pattern](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0482-license-key-formatting) |
@@ -875,6 +876,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
