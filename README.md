@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0382-linked-list-random-node) |
 | [0725-split-linked-list-in-parts](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0725-split-linked-list-in-parts) |
 | [0816-design-hashset](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0816-design-hashset) |
