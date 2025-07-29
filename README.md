@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0697-degree-of-an-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -979,6 +980,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/hhosseinian/LeetCode-Programming/tree/master/1833-find-the-highest-altitude) |
 ## Monotonic Stack
