@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0027-remove-element) |
@@ -845,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0011-container-with-most-water) |
 | [0321-create-maximum-number](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0321-create-maximum-number) |
 | [0409-longest-palindrome](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0455-assign-cookies) |
@@ -866,6 +868,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hhosseinian/LeetCode-Programming/tree/master/0027-remove-element) |
